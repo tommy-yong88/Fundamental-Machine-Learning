@@ -1,4 +1,4 @@
-# Fundamental Machine Learning
+# AirBnB Pricing trends - Fundamental Machine Learning
 <img src="background.png"
      style="float: left; margin-right: 0px;" />
 
