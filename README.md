@@ -1,4 +1,4 @@
-# Practical Language Processing Project Team 15 - Gastronomy Advisor (Chatbot)
+# Fundamental Machine Learning
 <img src="background.png"
      style="float: left; margin-right: 0px;" />
 
